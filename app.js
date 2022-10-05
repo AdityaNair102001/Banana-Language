@@ -35,4 +35,4 @@ btntranslate.addEventListener("click",show);
 
 
 
-//banana language
+//banana language theek hau
