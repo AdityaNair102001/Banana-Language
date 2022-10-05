@@ -35,3 +35,4 @@ btntranslate.addEventListener("click",show);
 
 
 
+//banana language
